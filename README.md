@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Henrique Venâncio
-- 👀 I’m interested in Data Science and Front End Developer
+- 👀 I’m interested in Data Science and Back-End Developer
 - 🌱 I’m currently learning Python and JavaScript
 
 ## 🌐 Socials:
