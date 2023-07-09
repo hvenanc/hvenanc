@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique Venâncio
 - 👀 I’m interested in Data Science and Back-End Developer(Flask,Spring Boot, Django)
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python,JavaScript,Dart,Flutter
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/06henrique) 
