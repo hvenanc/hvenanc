@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,JavaScript,Dart,Flutter
 
 ## 🌐 Socials:
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://instagram.com/06henrique)
+[![Instagram]([[https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)))](https://instagram.com/06henrique)
 [![Gmail Badge]( 	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:hvs1@outlook.com.br)](mailto:hvs1@outlook.com.br)
 [![LinkedIn Badge]( 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-ven%C3%A2ncio-437946184)](https://www.linkedin.com/in/henrique-ven%C3%A2ncio-437946184)
 [![Redes](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linktr.ee/henriquevenancio)
