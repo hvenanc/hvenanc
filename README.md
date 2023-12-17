@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Henrique Venâncio
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub!;Me+chamo+Henrique+Ven%C3%A2ncio)](https://git.io/typing-svg)
+
+
 - 👀 I’m interested in Data Science and Back-End Developer(Flask,Spring Boot, Django)
 - 🌱 I’m currently learning Python,JavaScript,Dart,Flutter
 
