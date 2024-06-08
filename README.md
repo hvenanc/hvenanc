@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub!;Me+chamo+Henrique+Ven%C3%A2ncio)](https://git.io/typing-svg)
 
 
-- 👀 I’m interested in Data Science and Back-End Developer(Flask,Spring Boot, Django)
-- 🌱 I’m currently learning Python,JavaScript,Dart,Flutter
+- 👀 I’m interested in Back-End Developer(Flask, Spring Boot 3, Django and FastAPI)
+- 🌱 I’m currently learning Python, JavaScript 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/06henrique)
